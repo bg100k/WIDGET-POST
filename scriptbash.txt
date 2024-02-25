@@ -1,0 +1,9 @@
+
+cd /Users/administrateur/Downloads/WIDGET_ARCGIS/react-map-widgets/
+
+chmod +x ajouter_widget.sh
+
+./ajouter_widget.sh
+
+
+GITHUB TOKEN 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 
